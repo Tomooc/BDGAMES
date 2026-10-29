@@ -1,0 +1,10 @@
+# 依赖
+node_modules/
+*.log
+dist/
+build/
+
+# 环境
+.env
+.env.local
+.DS_Store
